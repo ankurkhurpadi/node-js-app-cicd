@@ -99,7 +99,7 @@ Do not commit private keys, passwords, access tokens, or other secrets. Prefer v
 ### 7. Deployed Node.js Application
 ![Deployed Node.js application](screenshots/07-deployed-nodejs-app.png)
 
-> Add a fresh Jenkinsfile screenshot after changing `BRANCH` to `master`; the earlier screenshot showed `main`, which does not match the verified repository branch.
+
 
 ## Verify Deployment
 
