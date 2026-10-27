@@ -99,6 +99,17 @@ Do not commit private keys, passwords, access tokens, or other secrets. Prefer v
 ### 7. Deployed Node.js Application
 ![Deployed Node.js application](screenshots/07-deployed-nodejs-app.png)
 
+### 8. Deployed-Nodejs-Application
+![Deployed Node.js application](screenshots/08-deployed-nodejs-app.png)
+
+### 9. Github Webhook Configuration 
+![Github webhook configuration](screenshots/09-github-webhook-configuration.png.png)
+
+### 10.Jenkins Github Webhook Trigger
+![Jenkins github webhook Trigger](screenshots/10-jenkins-github-webhook-trigger.png.png)
+
+
+
 
 
 ## Verify Deployment
