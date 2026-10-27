@@ -100,7 +100,7 @@ Do not commit private keys, passwords, access tokens, or other secrets. Prefer v
 ![Deployed Node.js application](screenshots/07-deployed-nodejs-app.png)
 
 ### 8. Deployed-Nodejs-Application
-![Deployed Nodejs application](screenshots/08-deployed-nodejs-app.png)
+![Deployed Nodejs application](screenshots/08-deployed-nodejs-application.png.png)
 
 ### 9. Github Webhook Configuration 
 ![Github webhook configuration](screenshots/09-github-webhook-configuration.png.png)
